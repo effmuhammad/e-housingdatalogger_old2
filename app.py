@@ -1,9 +1,3 @@
-"""
-COMMAND untuk mulai:
-cd "d:TA PA LJ/webapp_streamlit"
-streamlit run app.py
-"""
-
 import streamlit as st
 import pandas as pd
 
